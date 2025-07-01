@@ -35,14 +35,14 @@ This project presents a comprehensive Power BI dashboard analyzing insurance pol
 
 ## 📁 File Info
 
-- `.pbix` file 
+- `report-template-with-data.pbix` file 
 - Screenshot image of the dashboard
 - raw dataset 
 
 ## 🚀 How to Use
 
 1. Clone the repository
-2. Open the `.pbix` file in Power BI Desktop 
+2. Open the `report-template-with-data.pbix` file in Power BI Desktop 
 3. Explore the visuals and insights
 
 ---
