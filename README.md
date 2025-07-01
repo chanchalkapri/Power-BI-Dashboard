@@ -28,7 +28,7 @@ This project presents a comprehensive Power BI dashboard analyzing insurance pol
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot%202025-07-02%20045514.png)
+
 
 ![Screenshot 2025-07-02 045514](https://github.com/user-attachments/assets/c16e2ed2-8656-4976-a4e2-c5599a85c5d4)
 
